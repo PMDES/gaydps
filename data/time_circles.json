@@ -1,0 +1,18 @@
+{
+    "id": 120,
+    "name": "Time Circles",
+    "author": "Callaway",
+    "creators": ["Callaway"],
+    "verifier": "Callaway",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 65,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "0",
+            "link": "https://www.youtube.com/",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
