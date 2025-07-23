@@ -1,22 +1,22 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Moon",
+        "link": "https://www.youtube.com/@Xanuran"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Piplup",
+        "link": "https://www.youtube.com/@piplupz0"
+    },
+    {
+        "role": "admin",
+        "name": "Chloe",
+        "link": "https://www.youtube.com/@Chlowoe"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "name": "Meltray77",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
