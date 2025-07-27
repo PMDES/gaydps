@@ -1,0 +1,18 @@
+{
+    "id": 171,
+    "name": "short level 2",
+    "author": "meltray77",
+    "creators": ["meltray77"],
+    "verifier": "meltray77",
+    "verification": "https://youtu.be/Ajz-_CLOT7M",
+    "percentToQualify": 51,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "0",
+            "link": "https://www.youtube.com/",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}
